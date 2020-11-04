@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*Screen switch*/
 public class SplitScreenSwitch : MonoBehaviour
 {
     public Camera cam1, cam2;
